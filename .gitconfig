@@ -1,0 +1,11 @@
+[alias]
+	co = checkout
+	ci = commit
+	rb = rebase
+	vibe = status
+	yeet = !git push origin HEAD
+	oops = reset --soft HEAD^
+	yikes = reset --hard HEAD
+	milk = pull
+	hide = stash
+	peek = stash pop
