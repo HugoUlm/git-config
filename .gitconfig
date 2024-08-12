@@ -9,3 +9,4 @@
 	milk = pull
 	hide = stash
 	peek = stash pop
+	home = switch main
