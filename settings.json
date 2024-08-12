@@ -1,0 +1,38 @@
+{
+    "workbench.iconTheme": "icons",
+    "workbench.colorTheme": "Dracula",
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#ff4081"
+    },
+    "editor.rulers": [
+        120
+    ],
+    "background.fullscreen": {
+        "images": ["https://mymodernmet.com/wp/wp-content/uploads/2021/06/japanese-maneki-neko-4.jpg"],
+        "opacity": 0.9,
+        "size": "cover",
+        "position": "center",
+        "interval": 0
+    },
+    "window.zoomLevel": -1,
+    "sonarlint.rules": {
+        "csharpsquid:S1075": {
+            "level": "off"
+        }
+    },
+    "editor.fontFamily": "'MesloGS Nerd Font'",
+    "terminal.integrated.fontFamily": "'MesloLGS Nerd Font'",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.customGlyphs": true,
+    "terminal.integrated.gpuAcceleration": "canvas",
+    "explorer.compactFolders": false,
+    "terminal.integrated.cursorBlinking": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "github.copilot.editor.enableAutoCompletions": true
+}
